@@ -1,7 +1,7 @@
 
 # المكتبة الصوتية الشاملة
 
-<img src="https://raw.githubusercontent.com/nfouka/UniversalSoundLibrary/master/logo.png" />" <br/>
+<img src="http://dev-sunna-grenoble.pantheonsite.io/data/ic_launcher.2.png" />" <br/>
 
 # طريقة الإستعمال 
 
