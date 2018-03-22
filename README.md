@@ -7,7 +7,7 @@
 
 ```shell
    إفتـــح الملف 
-   UniversalSoundLibrary.apk
+   mobile-debug.apk
    إضغط على 
    ressources inconnues 
 ```
