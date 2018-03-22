@@ -12,3 +12,5 @@
    ressources inconnues 
 ```
 
+في حالة عدم إشتغال الرابط ، إضغط هنا
+https://www.dropbox.com/preview/Android/mobile-debug.apk?role=personal
